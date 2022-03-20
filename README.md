@@ -1,2 +1,3 @@
 # data_science_work_sample
-A simple data analysis project
+
+This is a simple data analysis project that performs a behavior analysis of rats with raw csv files of the rat's body position
